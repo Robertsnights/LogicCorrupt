@@ -1,0 +1,3 @@
+displayName = Logic Corrupt
+author = ShadowDreams
+version = 0.1
