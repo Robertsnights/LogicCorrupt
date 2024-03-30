@@ -6,11 +6,12 @@
     "\\Content",
     "\\Content\\Armas",
     "\\Content\\Armas\\Melee",
+    "\\DamageClases",
     "\\Localization",
     "\\NPC",
     "\\NPC\\Enemigos",
     "\\NPC\\Enemigos\\Bosses"
   ],
-  "SelectedNode": "\\Content\\Armas\\Melee\\ImpactoTerrico.png",
+  "SelectedNode": "\\DamageClases\\TankDamageClass.cs",
   "PreviewInSolutionExplorer": false
 }

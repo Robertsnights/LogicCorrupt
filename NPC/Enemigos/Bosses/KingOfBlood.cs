@@ -5,7 +5,7 @@ using Terraria.ID;
 using Terraria.Localization;
 
 
-namespace LogicCorrupt.NPC.Bosses
+namespace LogicCorrupt.NPC.Enemigos.Bosses
 {
     internal class KingOfBlood : ModNPC
     {
@@ -17,7 +17,7 @@ namespace LogicCorrupt.NPC.Bosses
 */
         public override void SetDefaults(){
             NPC.aiStyle=NPCAIStyleID.Slime;
-            NPC.GetNPCDamage();
+            
             NPC.width=40;
             NPC.height =30;
             NPC.defense = 10;
@@ -25,7 +25,7 @@ namespace LogicCorrupt.NPC.Bosses
             NPC.lifeMax=20000;
             NPC.knockBackResist=0f;
             NPC.Opacity =0.8f;
-            NPC.lavaIMMune=false;
+            NPC.lavaImmune=false;
             NPC.noGravity=false;
             NPC.noTileCollide=false;
             NPC.canGhostHeal=false;

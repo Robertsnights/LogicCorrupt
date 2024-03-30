@@ -1,8 +1,8 @@
 # This file will automatically update with entries for new content after a build and reload
 
 Items: {
-	ashra: {
-		DisplayName: ashra
+	ImpactoTerrico: {
+		DisplayName: Terrafilo Sefirita
 		Tooltip: ""
 	}
 
@@ -11,3 +11,5 @@ Items: {
 		Tooltip: ""
 	}
 }
+
+NPCs.KingOfBlood.DisplayName: King Of Blood

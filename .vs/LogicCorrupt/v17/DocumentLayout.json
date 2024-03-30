@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\NPC\\Enemigos\\Bosses\\KingOfBlood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NPC\\Enemigos\\Bosses\\KingOfBlood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Items\\TerralitaDeSafiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Content\\Items\\TerralitaDeSafiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Common\\System\\MessageSistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Common\\System\\MessageSistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\DamageClases\\AverageDamageClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DamageClases\\AverageDamageClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,43 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KingOfBlood.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\NPC\\Enemigos\\Bosses\\KingOfBlood.cs",
-              "RelativeDocumentMoniker": "NPC\\Enemigos\\Bosses\\KingOfBlood.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\NPC\\Enemigos\\Bosses\\KingOfBlood.cs",
-              "RelativeToolTip": "NPC\\Enemigos\\Bosses\\KingOfBlood.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "AverageDamageClass.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\DamageClases\\AverageDamageClass.cs",
+              "RelativeDocumentMoniker": "DamageClases\\AverageDamageClass.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\DamageClases\\AverageDamageClass.cs",
+              "RelativeToolTip": "DamageClases\\AverageDamageClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:21:23.216Z",
+              "WhenOpened": "2024-03-30T22:28:16.038Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TerralitaDeSafiro.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Items\\TerralitaDeSafiro.cs",
-              "RelativeDocumentMoniker": "Content\\Items\\TerralitaDeSafiro.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Items\\TerralitaDeSafiro.cs",
-              "RelativeToolTip": "Content\\Items\\TerralitaDeSafiro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T18:44:11.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MessageSistem.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Common\\System\\MessageSistem.cs",
-              "RelativeDocumentMoniker": "Common\\System\\MessageSistem.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Common\\System\\MessageSistem.cs",
-              "RelativeToolTip": "Common\\System\\MessageSistem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T18:37:27.032Z"
             }
           ]
         }
