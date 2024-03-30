@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Common",
+    "\\Common\\System",
+    "\\Content",
+    "\\Content\\Armas",
+    "\\Content\\Armas\\Melee",
+    "\\Localization",
+    "\\NPC",
+    "\\NPC\\Enemigos",
+    "\\NPC\\Enemigos\\Bosses"
+  ],
+  "SelectedNode": "\\Content\\Armas\\Melee\\ImpactoTerrico.png",
+  "PreviewInSolutionExplorer": false
+}
