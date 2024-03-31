@@ -3,6 +3,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
+using LogicCorrupt.DamageClases;
 
 namespace LogicCorrupt.Content.Armas.Melee
 {
@@ -11,17 +12,19 @@ namespace LogicCorrupt.Content.Armas.Melee
         public override void SetDefaults()
         {
             Item.damage = 20;
-            Item.DamageType = DamageClass.Melee;
+            Item.DamageType = ModContent.GetInstance<TankDamageClass>();
+            
             Item.width=36;
             Item.height = 36;
             Item.useTime = 20;
             Item.useAnimation = 20;
-            Item.useStyle = 1;
+            Item.useStyle = ItemUseStyleID.Swing;
             Item.knockBack = 4;
             Item.value = 23000;
-            Item.rare = 2;
+            Item.rare = ItemRarityID.Green;
             Item.UseSound = SoundID.Item1;
             Item.autoReuse = true;
+            Item.useTurn = true;
         }
 
         public override void AddRecipes()

@@ -10,6 +10,12 @@ Items: {
 		DisplayName: Terralita De Safiro
 		Tooltip: ""
 	}
+
+	MesaDeArtesano: {
+		DisplayName: Mesa de Artesanias
+		Tooltip: ""
+	}
 }
 
 NPCs.KingOfBlood.DisplayName: King Of Blood
+DamageClasses.TankDamageClass.DisplayName: Tank damage

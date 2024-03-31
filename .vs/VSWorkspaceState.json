@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Common",
-    "\\Common\\System",
     "\\Content",
     "\\Content\\Armas",
     "\\Content\\Armas\\Melee",
+    "\\Content\\Workbench",
     "\\DamageClases",
     "\\Localization",
     "\\NPC",
     "\\NPC\\Enemigos",
     "\\NPC\\Enemigos\\Bosses"
   ],
-  "SelectedNode": "\\DamageClases\\TankDamageClass.cs",
+  "SelectedNode": "\\LogicCorrupt.csproj",
   "PreviewInSolutionExplorer": false
 }

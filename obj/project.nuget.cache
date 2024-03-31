@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BKb453c2dh0yPU9YBtfJEOtSRoX2x+ZiiZShTVC77/+yt6DGWlqOaBeaA986+HifBCaexah3A17DDjpA3t2sdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\LogicCorrupt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

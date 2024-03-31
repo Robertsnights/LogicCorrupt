@@ -25,7 +25,7 @@ namespace LogicCorrupt.Content.Items
             Recipe recipe = CreateRecipe();
             recipe.AddIngredient(ItemID.ClayBlock, 2);
             recipe.AddIngredient(ItemID.Sapphire, 4);
-            recipe.AddTile(TileID.WorkBenches);
+            recipe.AddTile<Tile.MesaDeArtesano>();
             recipe.Register();
         }
 
