@@ -12,8 +12,8 @@ namespace LogicCorrupt.Content.Armas.Melee
         public override void SetDefaults()
         {
             Item.damage = 20;
-            Item.DamageType = ModContent.GetInstance<TankDamageClass>();
-            
+            //Item.DamageType = ModContent.GetInstance<TankDamageClass>();
+            Item.DamageType = DamageClass.Melee;
             Item.width=36;
             Item.height = 36;
             Item.useTime = 20;

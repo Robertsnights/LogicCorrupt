@@ -15,6 +15,18 @@ Items: {
 		DisplayName: Mesa de Artesanias
 		Tooltip: ""
 	}
+
+	Ambarock: {
+		DisplayName: Ambarrock
+		ToolTip: ""
+		Tooltip: ""
+	}
+
+	AmuletoExtraño: {
+		DisplayName: Collar de Titan
+		ToolTip: ""
+		Tooltip: ""
+	}
 }
 
 NPCs.KingOfBlood.DisplayName: King Of Blood

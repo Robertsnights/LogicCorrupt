@@ -17,7 +17,7 @@ namespace LogicCorrupt.Tile
 
             TileID.Sets.DisableSmartCursor[Type] = true;
 
-            TileObjectData.newTile.CopyFrom(TileObjectData.Style2x2);
+            TileObjectData.newTile.CopyFrom(TileObjectData.Style3x2);
             TileObjectData.newTile.CoordinateHeights = new[] { 16, 18 };
             TileObjectData.newTile.CoordinatePaddingFix = new Point16(0, 2);
 
