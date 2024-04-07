@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\content\\armas\\melee\\impactoterrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\globlamodific\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:globlamodific\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\globlamodific\\modifyspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:globlamodific\\modifyspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\content\\armas\\tank\\rompemuelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:content\\armas\\tank\\rompemuelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\content\\armas\\melee\\impactoterrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:content\\armas\\melee\\impactoterrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\localization\\en-us_mods.logiccorrupt.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:localization\\en-us_mods.logiccorrupt.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\damageclases\\tankdamageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:damageclases\\tankdamageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\tile\\mesadeartesano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:tile\\mesadeartesano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\content\\items\\terralitadesafiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:content\\items\\terralitadesafiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\content\\workbench\\mesadeartesano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:content\\workbench\\mesadeartesano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,79 +34,66 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TankDamageClass.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\DamageClases\\TankDamageClass.cs",
-              "RelativeDocumentMoniker": "DamageClases\\TankDamageClass.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\DamageClases\\TankDamageClass.cs",
-              "RelativeToolTip": "DamageClases\\TankDamageClass.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAswCsAAAAYAAAA",
+              "DocumentIndex": 1,
+              "Title": "ModifySpawn.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\GloblaModific\\ModifySpawn.cs",
+              "RelativeDocumentMoniker": "GloblaModific\\ModifySpawn.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\GloblaModific\\ModifySpawn.cs",
+              "RelativeToolTip": "GloblaModific\\ModifySpawn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T15:51:31.817Z",
+              "WhenOpened": "2024-04-03T22:06:12.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ImpactoTerrico.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Melee\\ImpactoTerrico.cs",
-              "RelativeDocumentMoniker": "Content\\Armas\\Melee\\ImpactoTerrico.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Melee\\ImpactoTerrico.cs",
-              "RelativeToolTip": "Content\\Armas\\Melee\\ImpactoTerrico.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAmwA4AAABGAAAA",
+              "Title": "Mensajes.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\GloblaModific\\Mensajes.cs",
+              "RelativeDocumentMoniker": "GloblaModific\\Mensajes.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\GloblaModific\\Mensajes.cs",
+              "RelativeToolTip": "GloblaModific\\Mensajes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T14:29:03.345Z",
+              "WhenOpened": "2024-04-03T21:22:30.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "en-US_Mods.LogicCorrupt.hjson",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Localization\\en-US_Mods.LogicCorrupt.hjson",
-              "RelativeDocumentMoniker": "Localization\\en-US_Mods.LogicCorrupt.hjson",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Localization\\en-US_Mods.LogicCorrupt.hjson",
-              "RelativeToolTip": "Localization\\en-US_Mods.LogicCorrupt.hjson",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-31T01:36:09.691Z",
+              "DocumentIndex": 2,
+              "Title": "RompeMuelas.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Tank\\RompeMuelas.cs",
+              "RelativeDocumentMoniker": "Content\\Armas\\Tank\\RompeMuelas.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Tank\\RompeMuelas.cs",
+              "RelativeToolTip": "Content\\Armas\\Tank\\RompeMuelas.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:28:19.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TerralitaDeSafiro.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Items\\TerralitaDeSafiro.cs",
-              "RelativeDocumentMoniker": "Content\\Items\\TerralitaDeSafiro.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Items\\TerralitaDeSafiro.cs",
-              "RelativeToolTip": "Content\\Items\\TerralitaDeSafiro.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T01:11:21.051Z"
+              "Title": "en-US_Mods.LogicCorrupt.hjson",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Localization\\en-US_Mods.LogicCorrupt.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US_Mods.LogicCorrupt.hjson",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Localization\\en-US_Mods.LogicCorrupt.hjson",
+              "RelativeToolTip": "Localization\\en-US_Mods.LogicCorrupt.hjson",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-01T23:14:49.822Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MesaDeArtesano.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Tile\\MesaDeArtesano.cs",
-              "RelativeDocumentMoniker": "Tile\\MesaDeArtesano.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Tile\\MesaDeArtesano.cs",
-              "RelativeToolTip": "Tile\\MesaDeArtesano.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABFAAAA",
+              "Title": "ImpactoTerrico.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Melee\\ImpactoTerrico.cs",
+              "RelativeDocumentMoniker": "Content\\Armas\\Melee\\ImpactoTerrico.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Melee\\ImpactoTerrico.cs",
+              "RelativeToolTip": "Content\\Armas\\Melee\\ImpactoTerrico.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T00:54:56.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MesaDeArtesano.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Workbench\\MesaDeArtesano.cs",
-              "RelativeDocumentMoniker": "Content\\Workbench\\MesaDeArtesano.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Workbench\\MesaDeArtesano.cs",
-              "RelativeToolTip": "Content\\Workbench\\MesaDeArtesano.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T00:34:22.748Z"
+              "WhenOpened": "2024-04-01T22:57:49.595Z"
             }
           ]
         }

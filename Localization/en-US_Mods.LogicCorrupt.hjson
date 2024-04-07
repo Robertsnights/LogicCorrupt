@@ -27,7 +27,25 @@ Items: {
 		ToolTip: ""
 		Tooltip: ""
 	}
+
+	RompeMuelas: {
+		DisplayName: Rompe Muelas
+		Tooltip: ""
+	}
+
+	PotionRed: {
+		DisplayName: Antimedicinas
+		ToolTip: ""
+		Tooltip: ""
+	}
 }
 
 NPCs.KingOfBlood.DisplayName: King Of Blood
-DamageClasses.TankDamageClass.DisplayName: Tank damage
+
+DamageClasses: {
+	TankDamageClass.DisplayName: Tank damage
+	AlchemistClass.DisplayName: Alchemist damage
+}
+
+Projectiles.Proyectile1.DisplayName: Proyectile1
+Projectile.Typeless.ClownDaño.DisplayName: Clown Daño

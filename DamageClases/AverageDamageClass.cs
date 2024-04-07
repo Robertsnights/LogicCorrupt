@@ -12,7 +12,7 @@ namespace LogicCorrupt.DamageClases
 
         public override StatInheritanceData GetModifierInheritance(DamageClass damageClass)
         {
-            if(damageClass == Melee || damageClass == Ranged || damageClass == Magic || damageClass == Summon /*|| damageClass == Tank*/)
+            if(damageClass == Melee || damageClass == Ranged || damageClass == Magic || damageClass == Summon)
             {
                 return TwentyPercentBoost;
             }

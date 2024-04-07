@@ -15,7 +15,7 @@ namespace LogicCorrupt.DamageClases
                 critChanceInheritance:0f,
                 attackSpeedInheritance:0f,
                 armorPenInheritance:0f,
-                knockbackInheritance:0f
+                knockbackInheritance:10f
                 );
 
             
