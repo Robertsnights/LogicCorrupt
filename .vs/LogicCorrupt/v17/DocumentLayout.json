@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\globlamodific\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:globlamodific\\mensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\proyectiles\\typeless\\reductora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:proyectiles\\typeless\\reductora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\globlamodific\\modifyspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:globlamodific\\modifyspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\proyectiles\\alchemist\\proyectile2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:proyectiles\\alchemist\\proyectile2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\content\\armas\\tank\\rompemuelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:content\\armas\\tank\\rompemuelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\content\\armas\\alchemist\\reductora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:content\\armas\\alchemist\\reductora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\content\\armas\\melee\\impactoterrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:content\\armas\\melee\\impactoterrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\efectos\\debuff\\armadurarota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:efectos\\debuff\\armadurarota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\localization\\en-us_mods.logiccorrupt.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:localization\\en-us_mods.logiccorrupt.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|c:\\users\\nicol\\documents\\my games\\terraria\\tmodloader\\modsources\\logiccorrupt\\content\\armas\\alchemist\\potionred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:content\\armas\\alchemist\\potionred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\proyectiles\\alchemist\\proyectile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:proyectiles\\alchemist\\proyectile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\proyectiles\\typeless\\clownda\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF4B72D-AEF6-43AE-9091-241B9901904A}|LogicCorrupt.csproj|solutionrelative:proyectiles\\typeless\\clownda\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,41 +46,80 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ModifySpawn.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\GloblaModific\\ModifySpawn.cs",
-              "RelativeDocumentMoniker": "GloblaModific\\ModifySpawn.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\GloblaModific\\ModifySpawn.cs",
-              "RelativeToolTip": "GloblaModific\\ModifySpawn.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "ArmaduraRota.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Efectos\\Debuff\\ArmaduraRota.cs",
+              "RelativeDocumentMoniker": "Efectos\\Debuff\\ArmaduraRota.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Efectos\\Debuff\\ArmaduraRota.cs",
+              "RelativeToolTip": "Efectos\\Debuff\\ArmaduraRota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T22:06:12.174Z",
+              "WhenOpened": "2024-04-07T16:11:55.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Mensajes.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\GloblaModific\\Mensajes.cs",
-              "RelativeDocumentMoniker": "GloblaModific\\Mensajes.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\GloblaModific\\Mensajes.cs",
-              "RelativeToolTip": "GloblaModific\\Mensajes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Title": "Reductora.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Proyectiles\\TypeLess\\Reductora.cs",
+              "RelativeDocumentMoniker": "Proyectiles\\TypeLess\\Reductora.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Proyectiles\\TypeLess\\Reductora.cs",
+              "RelativeToolTip": "Proyectiles\\TypeLess\\Reductora.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwEIAAACdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T21:22:30.948Z",
+              "WhenOpened": "2024-04-07T15:22:31.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proyectile2.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Proyectiles\\Alchemist\\Proyectile2.cs",
+              "RelativeDocumentMoniker": "Proyectiles\\Alchemist\\Proyectile2.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Proyectiles\\Alchemist\\Proyectile2.cs",
+              "RelativeToolTip": "Proyectiles\\Alchemist\\Proyectile2.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwFUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:20:06.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RompeMuelas.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Tank\\RompeMuelas.cs",
-              "RelativeDocumentMoniker": "Content\\Armas\\Tank\\RompeMuelas.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Tank\\RompeMuelas.cs",
-              "RelativeToolTip": "Content\\Armas\\Tank\\RompeMuelas.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBEAAAAcAAAA",
+              "Title": "Reductora.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Alchemist\\Reductora.cs",
+              "RelativeDocumentMoniker": "Content\\Armas\\Alchemist\\Reductora.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Alchemist\\Reductora.cs",
+              "RelativeToolTip": "Content\\Armas\\Alchemist\\Reductora.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwC4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T20:28:19.758Z",
+              "WhenOpened": "2024-04-07T14:27:24.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proyectile1.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Proyectiles\\Alchemist\\Proyectile1.cs",
+              "RelativeDocumentMoniker": "Proyectiles\\Alchemist\\Proyectile1.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Proyectiles\\Alchemist\\Proyectile1.cs",
+              "RelativeToolTip": "Proyectiles\\Alchemist\\Proyectile1.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAwwG4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:21:00.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PotionRed.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Alchemist\\PotionRed.cs",
+              "RelativeDocumentMoniker": "Content\\Armas\\Alchemist\\PotionRed.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Alchemist\\PotionRed.cs",
+              "RelativeToolTip": "Content\\Armas\\Alchemist\\PotionRed.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowB0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:00:53.443Z",
               "EditorCaption": ""
             },
             {
@@ -79,21 +130,23 @@
               "RelativeDocumentMoniker": "Localization\\en-US_Mods.LogicCorrupt.hjson",
               "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Localization\\en-US_Mods.LogicCorrupt.hjson",
               "RelativeToolTip": "Localization\\en-US_Mods.LogicCorrupt.hjson",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAvAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-01T23:14:49.822Z"
+              "WhenOpened": "2024-04-01T23:14:49.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ImpactoTerrico.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Melee\\ImpactoTerrico.cs",
-              "RelativeDocumentMoniker": "Content\\Armas\\Melee\\ImpactoTerrico.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Content\\Armas\\Melee\\ImpactoTerrico.cs",
-              "RelativeToolTip": "Content\\Armas\\Melee\\ImpactoTerrico.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA0AAAAMAAAA",
+              "DocumentIndex": 7,
+              "Title": "ClownDa\u00F1o.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Proyectiles\\TypeLess\\ClownDa\u00F1o.cs",
+              "RelativeDocumentMoniker": "Proyectiles\\TypeLess\\ClownDa\u00F1o.cs",
+              "ToolTip": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LogicCorrupt\\Proyectiles\\TypeLess\\ClownDa\u00F1o.cs",
+              "RelativeToolTip": "Proyectiles\\TypeLess\\ClownDa\u00F1o.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T22:57:49.595Z"
+              "WhenOpened": "2024-04-06T23:38:49.539Z",
+              "EditorCaption": ""
             }
           ]
         }

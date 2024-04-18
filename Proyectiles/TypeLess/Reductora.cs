@@ -1,11 +1,12 @@
-﻿using System;
+﻿using LogicCorrupt.Efectos.Debuff;
+using System;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
 namespace LogicCorrupt.Proyectiles.TypeLess
 {
-    internal class ClownDaño : ModProjectile, ILocalizedModType
+    internal class Reductora : ModProjectile
     {
         public new string LocalizationCategory => "Projectile.Typeless";
 
@@ -17,8 +18,8 @@ namespace LogicCorrupt.Proyectiles.TypeLess
         public override void SetDefaults()
         {
             Projectile.width = 28;
-            Projectile.height = 28;
-            Projectile.friendly = true;
+            Projectile.height = 30;
+            Projectile.friendly = false;
             Projectile.alpha = 255;
             Projectile.penetrate = -1;
             Projectile.tileCollide = false;
@@ -26,7 +27,7 @@ namespace LogicCorrupt.Proyectiles.TypeLess
             Projectile.timeLeft = 400;
             Projectile.usesIDStaticNPCImmunity = true;
             Projectile.idStaticNPCHitCooldown = 6;
-            
+
         }
         public override void AI()
         {
@@ -44,7 +45,7 @@ namespace LogicCorrupt.Proyectiles.TypeLess
                     Projectile.frame = 0;
                 }
             }
-            else if(Projectile.owner == Main.myPlayer && Projectile.frame >= Main.projFrames[Projectile.type])
+            else if (Projectile.owner == Main.myPlayer && Projectile.frame >= Main.projFrames[Projectile.type])
             {
                 Projectile.Kill();
             }
@@ -61,12 +62,12 @@ namespace LogicCorrupt.Proyectiles.TypeLess
             {
                 Projectile.spriteDirection = Projectile.direction;
             }
-           
+
         }
-        public override void OnHitNPC(Terraria.NPC target, Terraria.NPC.HitInfo hit, int damageDone) => target.AddBuff(BuffID.Venom, 120);
+        public override void OnHitNPC(Terraria.NPC target, Terraria.NPC.HitInfo hit, int damageDone) => target.AddBuff(ModContent.BuffType<ArmaduraRota>(), 40);
         public override void OnHitPlayer(Player target, Player.HurtInfo info)
         {
-            target.AddBuff(BuffID.Venom, 80);
+            target.AddBuff(ModContent.BuffType<ArmaduraRota>(), 40);
         }
     }
 }

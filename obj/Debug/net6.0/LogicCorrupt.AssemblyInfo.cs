@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogicCorrupt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87d82243b093102efb3944a458bd683883c38e32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09f37b4ddf37ea5d256c0d0eee414c1b4a8cede1")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogicCorrupt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogicCorrupt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

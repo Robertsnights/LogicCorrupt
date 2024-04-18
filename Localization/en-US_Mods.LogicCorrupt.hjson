@@ -38,6 +38,11 @@ Items: {
 		ToolTip: ""
 		Tooltip: ""
 	}
+
+	Reductora: {
+		DisplayName: Reductora
+		Tooltip: ""
+	}
 }
 
 NPCs.KingOfBlood.DisplayName: King Of Blood
@@ -47,5 +52,17 @@ DamageClasses: {
 	AlchemistClass.DisplayName: Alchemist damage
 }
 
-Projectiles.Proyectile1.DisplayName: Proyectile1
+Projectiles: {
+	Proyectile1.DisplayName: Proyectile1
+	Proyectile2.DisplayName: Proyectile2
+	Reductora.DisplayName: Reductora
+}
+
 Projectile.Typeless.ClownDaño.DisplayName: Clown Daño
+
+Buffs: {
+	ArmaduraRota: {
+		DisplayName: Armadura Rota
+		Description: Mods.LogicCorrupt.Buffs.ArmaduraRota.Description
+	}
+}
