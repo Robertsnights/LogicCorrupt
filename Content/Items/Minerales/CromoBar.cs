@@ -2,6 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using LogicCorrupt.Items.Minerales;
+using LogicCorrupt.Tiles;
 
 
 namespace LogicCorrupt.Content.Items.Minerales
@@ -22,7 +23,7 @@ namespace LogicCorrupt.Content.Items.Minerales
             Item.value = Item.sellPrice(silver: 5);
             Item.rare = ItemRarityID.Green;
         }
-
+        
         public override void AddRecipes()
         {
             Recipe recipe = CreateRecipe();

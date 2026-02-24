@@ -2,11 +2,8 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using static Terraria.ID.ContentSamples.CreativeHelper;
-using LogicCorrupt.Content.Items;
 
 
-//using NightWorld2.Content;
 
 namespace LogicCorrupt.Tiles
 {
@@ -18,35 +15,36 @@ namespace LogicCorrupt.Tiles
 
             Main.tileSolid[Type] = true;
             Main.tileMergeDirt[Type] = true;
-            //Main.tileBockLight[Type] = true;
-            Main.tileShine[Type] = 900;
             Main.tileShine2[Type] = true;
-            Main.tileSpelunker[Type] = true;
-            Main.tileOreFinderPriority[Type] = 350;
 
             AddMapEntry(new Color(200, 200, 200), CreateMapEntryName());
 
-            DustType = DustID.Tungsten;
-            // tModPorter Note: Removed. Tiles and walls will drop the item which places them automatically. Use RegisterItemDrop to alter the automatic drop if necessary.
-            ItemGroup = ModContent.ItemType<Carne>();
-            //SoundType = SoundID.Tink;
-            //SoundStyle = 1;
-            MineResist = 1.5f;
-            MinPick = 80;
+            MineResist = 2f;
+            MinPick = 50;
+            DustType = DustID.Blood;
+
+            //ItemDrop = ModContent.ItemType<Carne>();
+            HitSound = SoundID.Tink;
+            TileID.Sets.Conversion.Stone[Type] = false;
+            TileID.Sets.Conversion.Grass[Type] = false;
+            TileID.Sets.Conversion.Sand[Type] = false;
+            TileID.Sets.Corruption[Type] = false;
+            TileID.Sets.Crimson[Type] = false;
+            TileID.sets.Hollow[Type] = false;
+            TileID.Sets.Jungle[Type] = false;
+            TileID.Sets.Mushroom[Type] = false;
+            TileID.Sets.Ocean[Type] = false;
+
         }
 
-        public override void NumDust(int i, int j, bool fail, ref int num)
+        public override bool CanReplace(int i, int j, int tileTypeBeingPlaced)
         {
-            num = fail ? 1 : 3;
-
-        }
-
-        public override void KillTile(int i, int j, ref bool fail, ref bool effectOnly, ref bool noItem)
-        {
-            if (!fail && Main.rand.NextBool(10))
-            {
-                Item.NewItem(new Terraria.DataStructures.EntitySource_TileBreak(i, j), i * 16, j * 16, 16, 16, ModContent.ItemType<Carne>());
-            }
+            if(tileTypeBeingPlaced == TileID.Ebonstone||
+               tileTypeBeingPlaced == TileID.Crimstone||
+               tileTypeBeingPlaced == TileID.Pearlstone)
+               return false; // No permitir que el tile se reemplace a sí mismo
+            
+            return base.CanReplace(i, j, tileTypeBeingPlaced);
         }
     }
 }
