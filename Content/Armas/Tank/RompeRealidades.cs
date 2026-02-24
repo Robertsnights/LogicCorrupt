@@ -2,7 +2,8 @@
 using Terraria.ModLoader;
 using Terraria.ID;
 using LogicCorrupt.DamageClases;
-using LogicCorrupt.Content.Items;
+
+using LogicCorrupt.Content.Items.Bioma;
 
 namespace LogicCorrupt.Content.Armas.Tank
 {
@@ -34,14 +35,14 @@ namespace LogicCorrupt.Content.Armas.Tank
             damage = Item.damage + (player.statDefense * 0.1);
         }
 
-        /*
+        
         public override void AddRecipes()
         {
             Recipe recipe = CreateRecipe();
-            
+            recipe.AddIngredient<Carne>(10);
             recipe.AddTile(TileID.Anvils);
             recipe.Register();
         }
-        */
+        
     }
 }

@@ -1,11 +1,10 @@
 ﻿using Terraria;
 using Terraria.ModLoader;
-
 using Terraria.ID;
 using Terraria.Localization;
 
 
-namespace LogicCorrupt.NPC.Enemigos.Bosses
+namespace LogicCorrupt.Enemigos.Bosses
 {
     internal class KingOfBlood : ModNPC
     {

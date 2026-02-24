@@ -23,7 +23,8 @@ namespace LogicCorrupt.Content.Workbench
             Item.maxStack = 999;
             Item.consumable = true;
 
-            Item.createTile=ModContent.TileType<Tile.MesaDeArtesano>();
+            Item.createTile=ModContent.TileType<Tiles.MesaDeArtesano>();
+            Item.value = 150;
         }
 
         public override void AddRecipes()

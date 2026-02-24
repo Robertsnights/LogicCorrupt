@@ -1,24 +1,18 @@
-﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using static Terraria.ID.ContentSamples.CreativeHelper;
 using LogicCorrupt.Content.Items;
 
-
-//using NightWorld2.Content;
-
 namespace LogicCorrupt.Tiles
 {
-    internal class Carne : ModTile
+    internal class Cromo : ModTile
     {
         public override void SetStaticDefaults()
         {
-            //TileID.Sets.Stone = true;
-
             Main.tileSolid[Type] = true;
             Main.tileMergeDirt[Type] = true;
-            //Main.tileBockLight[Type] = true;
             Main.tileShine[Type] = 900;
             Main.tileShine2[Type] = true;
             Main.tileSpelunker[Type] = true;
@@ -27,10 +21,7 @@ namespace LogicCorrupt.Tiles
             AddMapEntry(new Color(200, 200, 200), CreateMapEntryName());
 
             DustType = DustID.Tungsten;
-            // tModPorter Note: Removed. Tiles and walls will drop the item which places them automatically. Use RegisterItemDrop to alter the automatic drop if necessary.
-            ItemGroup = ModContent.ItemType<Carne>();
-            //SoundType = SoundID.Tink;
-            //SoundStyle = 1;
+            ItemGroup = ModContent.ItemType<Items.Minerales.MineraldeCromo>();
             MineResist = 1.5f;
             MinPick = 80;
         }
@@ -45,7 +36,7 @@ namespace LogicCorrupt.Tiles
         {
             if (!fail && Main.rand.NextBool(10))
             {
-                Item.NewItem(new Terraria.DataStructures.EntitySource_TileBreak(i, j), i * 16, j * 16, 16, 16, ModContent.ItemType<Carne>());
+                Item.NewItem(new Terraria.DataStructures.EntitySource_TileBreak(i, j), i * 16, j * 16, 16, 16, ModContent.ItemType<Items.Minerales.MineraldeCromo>());
             }
         }
     }

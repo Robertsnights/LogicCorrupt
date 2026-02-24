@@ -20,7 +20,7 @@ namespace LogicCorrupt.Content.Items
             Recipe recipe = CreateRecipe();
             recipe.AddIngredient(ItemID.Amber, 4);
             recipe.AddIngredient(ItemID.StoneBlock, 3);
-            recipe.AddTile<Tile.MesaDeArtesano>();
+            recipe.AddTile<Tiles.MesaDeArtesano>();
             recipe.Register();
         }
     }

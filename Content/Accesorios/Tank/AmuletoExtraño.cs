@@ -4,7 +4,7 @@ using Terraria.ID;
 using Terraria.GameContent.Creative;
 using LogicCorrupt.DamageClases;
 using LogicCorrupt.Content.Items;
-using LogicCorrupt.Tile;
+using LogicCorrupt.Tiles;
 
 namespace LogicCorrupt.Content.Accesorios.Tank
 {

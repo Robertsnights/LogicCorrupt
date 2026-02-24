@@ -2,8 +2,8 @@
 using Terraria.GameContent.Creative;
 using Terraria.ID;
 using Terraria.ModLoader;
-/*
-namespace NightWorld.Content.Items.Bioma
+
+namespace LogicCorrupt.Content.Items.Bioma
 {
     class Carne : ModItem
     {
@@ -35,4 +35,3 @@ namespace NightWorld.Content.Items.Bioma
         }
     }
 }
-*/
