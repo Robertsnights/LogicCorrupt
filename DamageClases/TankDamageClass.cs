@@ -34,6 +34,7 @@ namespace LogicCorrupt.DamageClases
         {
             player.GetCritChance<TankDamageClass>() += 4;
             player.GetArmorPenetration<TankDamageClass>() += 10;
+            
         }
 
         public override bool ShowStatTooltipLine(Player player, string lineName)

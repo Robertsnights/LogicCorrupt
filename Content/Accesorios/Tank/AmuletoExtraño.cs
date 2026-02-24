@@ -19,9 +19,12 @@ namespace LogicCorrupt.Content.Accesorios.Tank
 
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
-            player.GetDamage<TankDamageClass>() -= 5f;
-            player.statDefense += 10;
+            
+            player.statDefense += 1000;
             player.statLifeMax += 5;
+            //int defensa = player.statDefense;
+            player.GetDamage<TankDamageClass>() += 2;
+
         }
 
         public override void AddRecipes()

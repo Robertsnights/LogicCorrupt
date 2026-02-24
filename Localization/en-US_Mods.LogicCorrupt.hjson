@@ -50,6 +50,7 @@ NPCs.KingOfBlood.DisplayName: King Of Blood
 DamageClasses: {
 	TankDamageClass.DisplayName: Tank damage
 	AlchemistClass.DisplayName: Alchemist damage
+	AverageDamageClass.DisplayName: Average Damage Class
 }
 
 Projectiles: {
