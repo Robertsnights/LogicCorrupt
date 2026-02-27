@@ -16,10 +16,12 @@ namespace LogicCorrupt.System
             // Code to modify world generation tasks
             int index = tasks.FindIndex(genpass => genpass.Name.Equals("Corruption")||
             genpass.Name.Equals("Crimson"));
+            /*
             if (index != -1)
             {
                 tasks.Insert(index+1, new PassLegacy("Desatando el caos", GenerateBiome));
             }
+            */
         }
 
         private void GenerateBiome(GenerationProgress progress)
@@ -29,7 +31,7 @@ namespace LogicCorrupt.System
 
             // Example: Generate a custom biome in the world
             // You can use WorldGen methods to place tiles, walls, and other features for your biome
-            int centerX =GenVars.evilTilesX;
+            int centerX = Main.maxTilesX / 2;
             int surfaceY=(int)Main.worldSurface;
             
             int width =200;

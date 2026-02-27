@@ -29,12 +29,12 @@ namespace LogicCorrupt.Content.Armas.Tank
             Item.useTurn = true;
         }
 
-        
+        /*
         public override void ModifyWeaponDamage(Player player, ref StatModifier damage)
         {
             damage = Item.damage + (player.statDefense * 0.1);
         }
-
+        */
         
         public override void AddRecipes()
         {

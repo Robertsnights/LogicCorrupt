@@ -15,8 +15,8 @@ namespace LogicCorrupt.System
         {
             RecipeGroup recipeGroup = new RecipeGroup(() => Language.GetTextValue("LegacyMisc.37") + "demonsBar", new int[]
             {
-                ItemID.demoniteBar,
-                ItemID.crimtaneBar
+                ItemID.DemoniteBar,
+                ItemID.CrimtaneBar
             });
             RecipeGroup.RegisterGroup("Common:demonsBar", recipeGroup);
             Tables = new RecipeGroup(() => Language.GetTextValue("LegacyMisc.37") + " Table", new int[]

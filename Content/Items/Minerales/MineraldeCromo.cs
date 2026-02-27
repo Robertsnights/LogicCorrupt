@@ -1,18 +1,18 @@
-using Terraria;
+﻿using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using LogicCorrupt.Tiles;
 using LogicCorrupt.Content.Items.Minerales;
 using Terraria.DataStructures;
 
-namespace LogicCorrupt.Items.Minerales
+namespace LogicCorrupt.Content.Items.Minerales
 {
     public class MineraldeCromo : ModItem
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Mineral de Cromo");
-            Tooltip.SetDefault("Un mineral brillante con un tono plateado, utilizado para crear objetos resistentes y decorativos.");
+            // DisplayName.SetDefault("Mineral de Cromo");
+            // Tooltip.SetDefault("Un mineral brillante con un tono plateado, utilizado para crear objetos resistentes y decorativos.");
         }
 
         public override void SetDefaults()
@@ -27,9 +27,10 @@ namespace LogicCorrupt.Items.Minerales
             Item.useAnimation = 15;
             Item.autoReuse = true;
             Item.consumable = true;
-            Item.createTile = ModContent.TileType<Tiles.Cromo>();
+            Item.createTile = ModContent.TileType<Tile.Minerales.Cromo>();
 
         }
+        /*
         public override void OnCreated(ItemCreationContext context)
         {
             // Aquí puedes agregar cualquier lógica adicional que quieras ejecutar cuando se consuma el mineral, si es necesario.
@@ -42,7 +43,7 @@ namespace LogicCorrupt.Items.Minerales
             }
 
         }
-
+*/
         public override void AddRecipes()
         {
             Recipe recipe = CreateRecipe();

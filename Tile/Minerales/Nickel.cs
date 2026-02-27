@@ -2,11 +2,11 @@ using Terraria;
 using Microsoft.Xna.Framework;
 using Terraria.ID;
 using Terraria.ModLoader;
-using LogicCorrupt.Items.Minerales;
+using LogicCorrupt.Content.Items.Minerales;
 using static Terraria.ID.ContentSamples.CreativeHelper;
 
 
-namespace LogicCorrupt.Tiles
+namespace LogicCorrupt.Tile.Minerales
 {
     internal class Nickel : ModTile
     {
@@ -22,7 +22,7 @@ namespace LogicCorrupt.Tiles
             AddMapEntry(new Color(200, 200, 200), CreateMapEntryName());
 
             DustType = DustID.Iron;
-            ItemGroup = ModContent.ItemType<Items.Minerales.MineraldeNickel>();
+            //ItemGroup = ModContent.ItemType<Items.Minerales.MineraldeNickel>();
             MineResist = 1.5f;
             MinPick = 80;
         }
@@ -33,12 +33,6 @@ namespace LogicCorrupt.Tiles
 
         }
 
-        public override void KillTile(int i, int j, ref bool fail, ref bool effectOnly, ref bool noItem)
-        {
-            if (!fail && Main.rand.NextBool(10))
-            {
-                Item.NewItem(new Terraria.DataStructures.EntitySource_TileBreak(i, j), i * 16, j * 16, 16, 16, ModContent.ItemType<Items.Minerales.MineraldeNickel>());
-            }
-        }
+        
     }
 }

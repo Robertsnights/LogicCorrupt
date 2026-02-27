@@ -2,10 +2,11 @@ using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
+
 using static Terraria.ID.ContentSamples.CreativeHelper;
 
 
-namespace LogicCorrupt.Tiles
+namespace LogicCorrupt.Tiles.Minerales
 {
     internal class Cromo : ModTile
     {
@@ -21,7 +22,7 @@ namespace LogicCorrupt.Tiles
             AddMapEntry(new Color(200, 200, 200), CreateMapEntryName());
 
             DustType = DustID.Tungsten;
-            ItemGroup = ModContent.ItemType<Items.Minerales.MineraldeCromo>();
+            //ItemDrop = ModContent.ItemType<Items.Minerales.MineraldeCromo>();
             MineResist = 1.5f;
             MinPick = 80;
         }
@@ -31,7 +32,7 @@ namespace LogicCorrupt.Tiles
             num = fail ? 1 : 3;
 
         }
-
+/*
         public override void KillTile(int i, int j, ref bool fail, ref bool effectOnly, ref bool noItem)
         {
             if (!fail && Main.rand.NextBool(10))
@@ -39,5 +40,6 @@ namespace LogicCorrupt.Tiles
                 Item.NewItem(new Terraria.DataStructures.EntitySource_TileBreak(i, j), i * 16, j * 16, 16, 16, ModContent.ItemType<Items.Minerales.MineraldeCromo>());
             }
         }
+        */
     }
 }

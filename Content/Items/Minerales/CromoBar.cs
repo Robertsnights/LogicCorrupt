@@ -11,8 +11,8 @@ namespace LogicCorrupt.Content.Items.Minerales
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Cromo Bar");
-            Tooltip.SetDefault("A bar made of Cromo, used for crafting.");
+            // DisplayName.SetDefault("Cromo Bar");
+            // Tooltip.SetDefault("A bar made of Cromo, used for crafting.");
         }
 
         public override void SetDefaults()

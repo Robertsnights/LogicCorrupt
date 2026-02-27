@@ -1,17 +1,17 @@
-using Terraria;
+﻿using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using LogicCorrupt.Tiles;
 using Terraria.DataStructures;
 
-namespace LogicCorrupt.Items.Minerales
+namespace LogicCorrupt.Content.Items.Minerales
 {
     public class MineraldeNickel : ModItem
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Mineral de Nickel");
-            Tooltip.SetDefault("Un mineral brillante con un tono plateado, utilizado para crear objetos resistentes y decorativos.");
+            // DisplayName.SetDefault("Mineral de Nickel");
+            // Tooltip.SetDefault("Un mineral brillante con un tono plateado, utilizado para crear objetos resistentes y decorativos.");
         }
 
         public override void SetDefaults()
@@ -29,6 +29,7 @@ namespace LogicCorrupt.Items.Minerales
             //Item.createTile = ModContent.TileType<Tiles.Nickel>();
 
         }
+        /*
         public override void OnCreated(ItemCreationContext context)
         {
             if(context is RecipeItemCreationContext) // Verifica si el contexto es de consumo de item
@@ -39,6 +40,7 @@ namespace LogicCorrupt.Items.Minerales
                 player.QuickSpawnItem(player.GetSource_Misc("Mineral de Nickel obtenido"),ItemID.IronBar,1); // Esto hará que el jugador reciba una barra de Hierro al consumir el mineral.
             }
         }
+        */
         public override void AddRecipes()
         {
             Recipe recipe = CreateRecipe();

@@ -1,10 +1,8 @@
 using Terraria.ModLoader;
-using Terraria.WorldBuilding;
-using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.ID;
-using Terraria.GameContent.Bestiary;
-using System.Collections.Generic;
+using Terraria.DataStructures;
+
 namespace LogicCorrupt.Biomes
 {
     public class Corrocion : ModBiome
@@ -12,7 +10,7 @@ namespace LogicCorrupt.Biomes
         public override SceneEffectPriority Priority => SceneEffectPriority.BiomeHigh;
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Corrosive Biome");
+            //DisplayName.setDefault("Corrocion");
             /*
             Main.bgCorruption = mod.GetTexture("Backgrounds/CorrocionBG");
             Main.bgCorruption2 = mod.GetTexture("Backgrounds/CorrocionBG");
@@ -20,6 +18,8 @@ namespace LogicCorrupt.Biomes
             Main.bgCorruption4 = mod.GetTexture("Backgrounds/CorrocionBG");
             */
         }
+
+        
 
         public override bool IsBiomeActive(Player player)
         {

@@ -5,7 +5,8 @@ using Terraria.ModLoader;
 
 
 
-namespace LogicCorrupt.Tiles
+
+namespace LogicCorrupt.Tiles.NewBiome
 {
     internal class Carne : ModTile
     {
@@ -28,12 +29,12 @@ namespace LogicCorrupt.Tiles
             TileID.Sets.Conversion.Stone[Type] = false;
             TileID.Sets.Conversion.Grass[Type] = false;
             TileID.Sets.Conversion.Sand[Type] = false;
-            TileID.Sets.Corruption[Type] = false;
+            TileID.Sets.Corrupt[Type] = false;
             TileID.Sets.Crimson[Type] = false;
-            TileID.sets.Hollow[Type] = false;
-            TileID.Sets.Jungle[Type] = false;
-            TileID.Sets.Mushroom[Type] = false;
-            TileID.Sets.Ocean[Type] = false;
+            TileID.Sets.Hallow[Type] = false;
+            TileID.Sets.JungleSpecial[Type] = false;
+            TileID.Sets.MushroomBiome[Type] = 0;
+            
 
         }
 
