@@ -2,7 +2,7 @@ using Terraria.ModLoader;
 using System.Collections.Generic;
 using Terraria;
 using Terraria.WorldBuilding;
-using LogicCorrupt.Tiles;
+using LogicCorrupt.Tiles.NewBiome;
 using Terraria.GameContent.Generation;
 
 

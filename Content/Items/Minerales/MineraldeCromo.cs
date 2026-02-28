@@ -1,9 +1,7 @@
 ﻿using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using LogicCorrupt.Tiles;
-using LogicCorrupt.Content.Items.Minerales;
-using Terraria.DataStructures;
+
 
 namespace LogicCorrupt.Content.Items.Minerales
 {
@@ -27,7 +25,7 @@ namespace LogicCorrupt.Content.Items.Minerales
             Item.useAnimation = 15;
             Item.autoReuse = true;
             Item.consumable = true;
-            Item.createTile = ModContent.TileType<Tile.Minerales.Cromo>();
+            
 
         }
         /*

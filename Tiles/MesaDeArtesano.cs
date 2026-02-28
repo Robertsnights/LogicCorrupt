@@ -5,7 +5,7 @@ using Terraria.ID;
 using Terraria.ObjectData;
 using Terraria.ModLoader;
 
-namespace LogicCorrupt.Tile
+namespace LogicCorrupt.Tiles
 {
     internal class MesaDeArtesano : ModTile
     {

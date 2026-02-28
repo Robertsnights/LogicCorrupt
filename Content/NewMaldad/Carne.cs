@@ -3,7 +3,8 @@ using Terraria.GameContent.Creative;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace LogicCorrupt.Content.Items.Bioma
+
+namespace LogicCorrupt.Content.Items.NewMaldad
 {
     class Carne : ModItem
     {
@@ -26,7 +27,6 @@ namespace LogicCorrupt.Content.Items.Bioma
             Item.useTime = 10;
             Item.autoReuse = true;
 
-            Item.createTile = ModContent.TileType<Tiles.Carne>();
         }
 
         public override void AutoDefaults()

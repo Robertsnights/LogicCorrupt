@@ -1,7 +1,7 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using LogicCorrupt.Items.Minerales;
+using LogicCorrupt.Content.Items.Minerales;
 using LogicCorrupt.Tiles;
 
 

@@ -1,5 +1,6 @@
 using Terraria.ModLoader;
 using Terraria;
+using Microsoft.Xna.Framework;
 using Terraria.ID;
 using Terraria.DataStructures;
 
@@ -34,7 +35,7 @@ namespace LogicCorrupt.Biomes
                     if (x >= 0 && x < Main.maxTilesX && y >= 0 && y < Main.maxTilesY)
                     {
                         Tile tile = Framing.GetTileSafely(x, y);
-                        if (tile.HasTile && tile.TileType == ModContent.TileType<Tiles.Carne>())
+                        if (tile.HasTile && tile.TileType == ModContent.TileType<Tiles.NewBiome.Carne>())
                         {
                             tileCount++;
                         }

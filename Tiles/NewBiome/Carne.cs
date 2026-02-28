@@ -2,10 +2,6 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-
-
-
-
 namespace LogicCorrupt.Tiles.NewBiome
 {
     internal class Carne : ModTile

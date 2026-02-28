@@ -3,7 +3,7 @@ using Terraria.ModLoader;
 using Terraria.ID;
 using LogicCorrupt.DamageClases;
 
-using LogicCorrupt.Content.Items.Bioma;
+using LogicCorrupt.Content.Items.NewMaldad;
 
 namespace LogicCorrupt.Content.Armas.Tank
 {
