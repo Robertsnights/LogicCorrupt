@@ -4,7 +4,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 
 
-namespace LogicCorrupt.Content.Items.NewMaldad
+namespace LogicCorrupt.Content.NewMaldad
 {
     class Carne : ModItem
     {

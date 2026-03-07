@@ -43,6 +43,36 @@ Items: {
 		DisplayName: Reductora
 		Tooltip: ""
 	}
+
+	RompeRealidades: {
+		DisplayName: Rompe Realidades
+		Tooltip: ""
+	}
+
+	CromoBar: {
+		DisplayName: Cromo Bar
+		Tooltip: ""
+	}
+
+	MineraldeCromo: {
+		DisplayName: Mineralde Cromo
+		Tooltip: ""
+	}
+
+	MineraldeNickel: {
+		DisplayName: Mineralde Nickel
+		Tooltip: ""
+	}
+
+	Carne: {
+		DisplayName: Carne
+		Tooltip: ""
+	}
+
+	NickelBar: {
+		Tooltip: ""
+		DisplayName: Nickel Bar
+	}
 }
 
 NPCs.KingOfBlood.DisplayName: King Of Blood
@@ -66,4 +96,17 @@ Buffs: {
 		DisplayName: Armadura Rota
 		Description: Mods.LogicCorrupt.Buffs.ArmaduraRota.Description
 	}
+}
+
+Biomes: {
+	Corrocion: {
+		DisplayName: Corrocion
+		TownNPCDialogueName: the Corrocion
+	}
+}
+
+Tiles: {
+	Cromo.MapEntry: Cromo
+	Carne.MapEntry: Carne
+	Nickel.MapEntry: Nickel
 }

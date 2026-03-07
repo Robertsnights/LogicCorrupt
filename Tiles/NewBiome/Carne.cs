@@ -17,7 +17,7 @@ namespace LogicCorrupt.Tiles.NewBiome
             AddMapEntry(new Color(200, 200, 200), CreateMapEntryName());
 
             MineResist = 2f;
-            MinPick = 50;
+            MinPick = 10;
             DustType = DustID.Blood;
 
             //ItemDrop = ModContent.ItemType<Carne>();
