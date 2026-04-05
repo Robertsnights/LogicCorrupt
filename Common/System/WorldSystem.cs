@@ -24,8 +24,8 @@ namespace LogicCorrupt.System
                 tasks.Insert(index+1, new PassLegacy("Desatando el caos", GenerateBiome));
             }
             */
-            int centerX = GenVars.leftBeachEnd;
-            int surfaceY=(int)Main.worldSurface -2;
+            int centerX = GenVars.rightBeachStart;
+            int surfaceY=(int)Main.worldSurface;
             Main.spawnTileX = centerX;
             Main.spawnTileY = surfaceY;
 
